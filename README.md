@@ -1,6 +1,6 @@
 #### **1- File Permissions in Linux (Flowchart)**  
 
-![image](https://github.com/user-attachments/assets/cae8a216-8071-4f8b-8318-8d6b24b005f1)
+![File Permissions in Linux](https://github.com/user-attachments/assets/3f17aa0a-762f-4ba5-90f8-5995ab6fdca9)
 
 This flowchart provides an overview of **file permissions in Linux**, breaking them down into categories based on users and actions:  
 
