@@ -1,4 +1,4 @@
-#### **File Permissions in Linux (Flowchart)**  
+#### **1- File Permissions in Linux (Flowchart)**  
 
 ![image](https://github.com/user-attachments/assets/cae8a216-8071-4f8b-8318-8d6b24b005f1)
 
@@ -23,7 +23,7 @@ This chart helps visualize the structure and application of Linux file permissio
 
 ---
 
-#### **Practical Example of Linux File Permissions** 
+#### **2- Practical Example of Linux File Permissions** 
 
 ![image](https://github.com/user-attachments/assets/2bfd4492-88fb-4748-89e4-4951e7628744)
 
@@ -55,4 +55,8 @@ This image shows how file permissions are applied in a real Linux terminal sessi
 ---
 
 ### Summary:  
-These images illustrate the importance of Linux file permissions and how to modify them practically. The flowchart provides a conceptual overview, while the terminal screenshot demonstrates its real-world application. Both are essential for understanding and managing file access in Linux. 🚀
+These images demonstrate how to understand and manage file permissions in the Linux system in a simple way.  
+- **The first image** provides an overview of permission classifications (owner, group, others) and the possible actions for each (read, write, execute).  
+- **The second image** shows a practical example of creating a file, changing its permissions using the `chmod` command, verifying the permissions with the `ls -l` command, editing the file with the `nano` text editor, and executing it using Python.  
+
+These examples highlight the importance of understanding file permissions to control access and secure files in a Linux environment. 
